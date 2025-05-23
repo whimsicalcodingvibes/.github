@@ -41,7 +41,7 @@ We also offer **Notion templates** for developers and creators who want to:
 - Stay organized across freelance + personal work
 - Log bugs, ideas, and commits — with bonus XP
 
-> _They’re the same templates we use to run this brand._
+> _These are the same systems we use to build and run Whimsical Coding Vibes._
 
 → 📦 Available soon via [linktr.ee/whimsicalcodingvibes](https://linktr.ee/whimsicalcodingvibes) 
 
