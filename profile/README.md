@@ -81,5 +81,5 @@ We share updates, launches, and cat-fueled inspiration here:
 ---
 
 Made with 💜 by [@lvasconcellos](https://github.com/lvasconcellos)  
-Powered by Vinegar's judgmental stare and a lot of 💻 + ☕  
+Powered by Vinegar's close supervision and a lot of 💻 + ☕  
 🧡 `Responsibility` · 💜 `Creativity` · 🖤 `Independence`
